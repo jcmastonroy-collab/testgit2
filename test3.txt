@@ -1,0 +1,5 @@
+to check. created a folder in the local storage and then added the file to them. Used git init fn to create a empty repo file. 
+Then created a repository in github and connected that repository to this created folder using git remote add origin <url>
+checked the branch using git branch.
+can change the branch using git branch -M "new name"
+can add multiple files to waiting space using "add ."
