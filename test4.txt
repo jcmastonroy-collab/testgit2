@@ -1,1 +1,3 @@
 created in sub branch branch1.
+file added in branch1 is merged with main branch using merge fn.
+we can switch between the branches by using the keyword checkout fn
